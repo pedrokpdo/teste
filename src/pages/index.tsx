@@ -10,7 +10,7 @@ export default function Home() {
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
           <span> 👏 Hey, welcome</span>
-          <h1>News about the <span>React</span> Word</h1>
+          <h1>Newes about the <span>React</span> Word</h1>
           <p>
             Get acess to all publications <br />
             <span>for $9.90 mouth</span>
